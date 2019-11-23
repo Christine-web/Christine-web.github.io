@@ -1,0 +1,16 @@
+body {
+		text-align: center;
+	background-color: green;
+}
+
+
+.parent {
+	margin-left: 40%;
+  text-align: left;
+}
+.parent > ul {
+  display: inline-block;
+}
+.parent > li {
+	
+}
