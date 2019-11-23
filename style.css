@@ -14,6 +14,6 @@ body {
 .parent > li {
 	
 }
-.desert > body {background-color:yellow;}
+.desert {background-color:yellow;}
 
-.deepsea > body {background-color:blue;}
+.deepsea {background-color:blue;}
