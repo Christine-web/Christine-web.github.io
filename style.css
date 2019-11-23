@@ -11,9 +11,11 @@ body {
 .parent > ul {
   display: inline-block;
 }
-.parent > li {
-	
-}
-.desert {background-color:yellow;}
 
-.deepsea {background-color:blue;}
+.desert {
+  background-color: yellow;
+}
+
+.deepsea {
+  background-color:blue;
+}
